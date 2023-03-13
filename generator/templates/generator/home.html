@@ -12,7 +12,7 @@
   <h1>
     Password Generator
   </h1>
-    <br>
+    <hr>
     <form action="{% url 'password' %}">
       Password length: <select name="length">
         <option value="8" selected='selected'>8</option>
@@ -39,7 +39,7 @@
         Generate
       </button>
     </form>
-  <footer class="footer mt-auto py-3 bg-light">
+  <footer class="footer mt-auto py-3 bg-white">
     <div class="container">
       <span class="text-muted"><a href="{% url 'about' %}">about</a></span>
     </div>
