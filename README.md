@@ -25,4 +25,4 @@
   </p>
 <hr>
 <p>This code was written for educational purposes to learn Django framework.<br> 
-  You can try it at <a href='https://mikefomin1.pythonanywhere.com' target='_blank'>mikefomin1.pythonanywhere.com</a></p>
+  You can try it at <a href="https://mikefomin1.pythonanywhere.com" target="_blank">mikefomin1.pythonanywhere.com</a></p>
